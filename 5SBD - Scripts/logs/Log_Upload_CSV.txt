@@ -1,0 +1,3 @@
+Contexto do banco de dados alterado para 'Teste'.
+Mensagem 4864, Nível 16, Estado 1, Servidor DESKTOP-H1G5PA3, Linha 3
+Erro de conversão de dados de carregamento em massa (dados incompatíveis ou caractere inválido para a página de código especificada) na linha 2, coluna 1 (ID_Produto).

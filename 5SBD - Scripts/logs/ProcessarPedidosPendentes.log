@@ -1,0 +1,57 @@
+Contexto do banco de dados alterado para 'Teste'.
+
+(6 linhas afetadas)
+
+(6 linhas afetadas)
+
+(4 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(2 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(2 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+
+(1 linhas afetadas)
+ID_Atendimento ID_Pedido   ValorPedido  Status                                             Data_Atendimento
+-------------- ----------- ------------ -------------------------------------------------- ----------------
+             1           3         4.50 Atendido                                                 2024-05-21
+             2           1         7.50 Aguardando Compra                                        2024-05-21
+             3           5        10.00 Aguardando Compra                                        2024-05-21
+             4           2         8.00 Aguardando Compra                                        2024-05-21
+             5           2         8.00 Aguardando Compra                                        2024-05-21
+             6           4         3.00 Atendido                                                 2024-05-21
+
+(6 linhas afetadas)
